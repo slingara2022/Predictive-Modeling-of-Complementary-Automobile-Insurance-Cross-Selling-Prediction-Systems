@@ -532,5 +532,5 @@ The classification model is able to accurately predict which customers will be i
 4. https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680
 5. https://www.analyticsvidhya.com/blog/2021/01/gaussian-naive-bayes-with-hyperpameter-tuning/
 6. https://en.wikipedia.org/wiki/Gradient_boosting
-7. https://analyticsindiamag.com/7-types-classification-algorithms/
+7. https://analyticsindiamag.com/7-types-classification-algorithms/ 
 """
